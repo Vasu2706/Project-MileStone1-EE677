@@ -6,7 +6,7 @@
 - **forecast.py**: Contains functions to build the hourly demand of various technologies.
 - **results.py**: Generates all the hourly profiles at different resolutions.
 
-The project also organizes scenarios using a hierarchical folder structure. Each path to a CSV file corresponds to a specific scenario, with the breakdown as follows:
+The project also organizes scenarios using a hierarchical folder structure. Each path in results folder to a CSV file corresponds to a specific scenario, with the breakdown as follows:
 
 1. **GDP Growth**: Options are `slow`, `stable`, `rapid`.
 2. **Cooling**: Options are `baseline`, `efficient`.
