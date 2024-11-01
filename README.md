@@ -19,7 +19,7 @@ The project also organizes scenarios using a hierarchical folder structure. Each
 
 Each file path serves as a reference to the scenario represented within the data tables. For example, `SR.csv` in the path `slow/efficient/summary` provides a summary for a scenario of slow economic growth and energy-efficient air conditioning demand.
 
-### Data Table Structure (Table 3)
+### Data Table Structure (Table )
 
 | Column Header | Description |
 |---------------|-------------|
